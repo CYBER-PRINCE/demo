@@ -13,7 +13,7 @@
 ##  🎶 **Currently Playing**
 
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/jass manak)
+[![Spotify](https://novatorem.vercel.app/api/spotify)
 
 
 ##  🇮🇳 **Github Stats**
